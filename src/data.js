@@ -7,6 +7,7 @@ import shipping from "./img/shipping.png";
 import pokemon from "./img/pokemon_api.png";
 import kredi from "./img/kredi_hesaplama.png";
 import todo from "./img/todo.png";
+import task from "./img/task.png";
 
 export const products = [
   {
@@ -45,16 +46,14 @@ export const products = [
     link: "https://kurtismail.github.io/check-out-shipping/",
     img: shipping,
   },
-
   {
     id: 8,
-    link: "https://kurtismail.github.io/pokemon_study/",
-    img: pokemon,
-  },
-
-  {
-    id: 9,
     link: "https://kurtismail.github.io/kredi_hesaplama_project/",
     img: kredi,
+  },
+  {
+    id: 9,
+    link: "https://task-tracker-xi2lhlzwi-kurtismail.vercel.app/",
+    img: task,
   },
 ];
