@@ -17,8 +17,8 @@ export const products = [
   },
   {
     id: 2,
-    link: "https://kurtismail.github.io/todo-app/",
-    img: todo,
+    link: "https://task-tracker-xi2lhlzwi-kurtismail.vercel.app/",
+    img: task,
   },
   {
     id: 3,
@@ -53,7 +53,7 @@ export const products = [
   },
   {
     id: 9,
-    link: "https://task-tracker-xi2lhlzwi-kurtismail.vercel.app/",
-    img: task,
+    link: "https://kurtismail.github.io/todo-app/",
+    img: todo,
   },
 ];
