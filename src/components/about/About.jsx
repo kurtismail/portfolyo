@@ -14,7 +14,7 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          Food engineering graduate. Working as a senior assistant store manager at Migros. Fullstack developer with +3 years of experience in IT / CRM tools and +1 year of experience in web development.
+          Fullstack developer with +3 years of experience in IT / CRM tools and +1 year of experience in web development. Working as a senior assistant store manager at Migros.
           <br />
           <br />
           interested in writing codes, skilled at developing complex
