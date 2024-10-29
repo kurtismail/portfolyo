@@ -11,7 +11,7 @@ import task from "./img/task.png";
 
 export const products = [
   {
-    id: 11,
+    id: 1,
     link: "https://movie-app-firebase-tailwind-i74owwpzp-kurtismail.vercel.app/",
     img: movie,
   },
