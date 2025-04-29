@@ -42,7 +42,7 @@ const Intro = ({ darkMode }) => {
               ></i>
             </a>
             <a
-              href=" https://wa.me/+905324948077"
+              href=" https://wa.me/+12069285363"
               target="_blank"
               rel="noreferrer"
             >
