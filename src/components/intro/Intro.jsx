@@ -18,7 +18,7 @@ const Intro = ({ darkMode }) => {
           </div>
           <p className="i-desc">
             I develop services for customers of all sizes, specializing inreting
-            stylish,modern websites, web services and online stores.
+            stylish,modern websites, web services and online stores .
           </p>
           <div className="social">
             <a
