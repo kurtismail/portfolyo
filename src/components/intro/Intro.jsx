@@ -20,7 +20,7 @@ const Intro = ({ darkMode }) => {
             I develop services for customers of all sizes, specializing inreting
             stylish,modern websites, web services and online stores.
           </p>
-          <div className="socal">
+          <div className="social">
             <a
               href="https://www.linkedin.com/in/kurtismail/"
               target="_blank"
